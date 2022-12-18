@@ -1,2 +1,2 @@
-# SolidPrinciples
+# Solid Principles
 SOLID Principles
